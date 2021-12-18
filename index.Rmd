@@ -1,5 +1,5 @@
 ---
-title: "Vous êtes entrain d'être rediriger vetre une autre page"
+title: "Vous êtes entrain d'être rediriger vers une autre page"
 output: html_document
 ---
 <script type="text/javascript">
