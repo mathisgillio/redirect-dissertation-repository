@@ -3,6 +3,6 @@ title: "Vous êtes entrain d'être redirigé vers une autre page"
 output: html_document
 ---
 <script type="text/javascript">
-  var pageArr = ["https://www.youtube.com/watch?v=cfxs_WxswWg", "https://www.youtube.com/watch?v=hxp07UVZs7o"]; 
+  var pageArr = ["https://docs.google.com/forms/d/e/1FAIpQLSeRzfdcPXaYTTpM0oJv0XVmqt_UvfGqcvVZJiLuyQf1apFIsA/formResponse", "https://docs.google.com/forms/d/e/1FAIpQLSdE1pMXsZlEp6DwMCzl_Ahhm78oMzF3EGeZwATyuA_8ARk2qQ/viewform"]; 
   document.location.href = pageArr[Math.ceil(Math.random()*2)-1];
     </script>
